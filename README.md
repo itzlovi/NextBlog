@@ -2,9 +2,6 @@
 
 A modern, beautiful, and easy-to-use blogging platform built with Next.js and Tailwind CSS.
 
-![NextBlog Screenshot](https://user-images.githubusercontent.com/placeholder/nextblog-screenshot.png)
-
----
 
 ## ✨ Features
 
@@ -80,6 +77,19 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Next.js](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Lucide Icons](https://lucide.dev/)
+
+---
+
+## 🖼️ Screenshots
+
+### Home Page
+![Home Page](public/screenshots/homepage.png)
+
+### Add Blog Page
+![Add Blog Page](public/screenshots/add-blog.png)
+
+### Blog Details Page
+![Blog Details Page](public/screenshots/all-blogs.png)
 
 ---
 
